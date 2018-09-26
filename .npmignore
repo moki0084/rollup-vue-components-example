@@ -1,0 +1,9 @@
+node_modules/
+demo
+test
+/components/
+/build/
+.babelrc
+.editorconfig
+.eslintignore
+.eslintrc.js

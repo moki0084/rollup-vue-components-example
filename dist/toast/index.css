@@ -1,0 +1,15 @@
+
+.toast[data-v-38b1478c]{position:fixed;max-width:80%;border-radius:0.10667rem;background:rgba(0,0,0,.7);color:#fff;box-sizing:border-box;text-align:center;z-index:1000;-webkit-transition:opacity .3s linear;transition:opacity .3s linear;word-break:break-all
+}
+.toast-icon[data-v-38b1478c]{display:block;text-align:center;font-size:1.49333rem
+}
+.toast-text[data-v-38b1478c]{font-size:0.37333rem;display:block;text-align:center
+}
+.toast-pop-enter[data-v-38b1478c],.toast-pop-leave-active[data-v-38b1478c]{opacity:0
+}
+.toast-placetop[data-v-38b1478c]{top:30%;left:50%;-webkit-transform:translate(-50%,0);transform:translate(-50%,0)
+}
+.toast-placebottom[data-v-38b1478c]{bottom:20%;left:50%;-webkit-transform:translate(-50%,0);transform:translate(-50%,0)
+}
+.toast-placemiddle[data-v-38b1478c]{left:50%;top:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%)
+}
